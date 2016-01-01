@@ -1,0 +1,8 @@
+[user]
+name = Charles Cooper
+email = cooper.charles.m@gmail.com
+[push]
+default = simple
+[core]
+editor = vim
+
