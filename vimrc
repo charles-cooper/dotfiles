@@ -6,6 +6,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Bundle 'Syntastic'
+Bundle 'bitc/vim-hdevtools'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
