@@ -5,6 +5,8 @@ filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
+Bundle 'Syntastic'
+
 call vundle#end()            " required
 filetype plugin indent on    " required
 
