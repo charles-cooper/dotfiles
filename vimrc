@@ -1,10 +1,11 @@
 filetype plugin indent on    " required
 
 syntax on
-set tabstop=2
 set cindent
 set smartindent
+set tabstop=2
 set shiftwidth=2
+set softtabstop=2
 set expandtab
 "set relativenumber
 set ruler
