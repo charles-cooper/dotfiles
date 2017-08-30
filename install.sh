@@ -4,4 +4,5 @@ ln -s $(pwd)/gitconfig ~/.gitconfig
 
 git submodule update --init
 rsync -av --include="*/" --include="solidity.vim" --exclude="*" vim-solidity/ ~/.vim/
+rsync -av --include="*/" --include="rust.vim" --exclude="*" rust.vim/ ~/.vim/
 

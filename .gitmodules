@@ -1,3 +1,6 @@
 [submodule "vim-solidity"]
 	path = vim-solidity
 	url = https://github.com/tomlion/vim-solidity.git
+[submodule "rust.vim"]
+	path = rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
