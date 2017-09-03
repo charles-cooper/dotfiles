@@ -4,3 +4,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = git@github.com:rust-lang/rust.vim.git
+[submodule "idris-vim"]
+	path = idris-vim
+	url = git@github.com:idris-hackers/idris-vim.git
