@@ -7,3 +7,6 @@
 [submodule "idris-vim"]
 	path = idris-vim
 	url = git@github.com:idris-hackers/idris-vim.git
+[submodule "vim-pug"]
+	path = vim-pug
+	url = git@github.com:digitaltoad/vim-pug.git
