@@ -10,3 +10,9 @@
 [submodule "vim-pug"]
 	path = vim-pug
 	url = git@github.com:digitaltoad/vim-pug.git
+[submodule "elm-vim"]
+	path = elm-vim
+	url = git@github.com:ElmCast/elm-vim.git
+[submodule "vim-vyper"]
+	path = vim-vyper
+	url = git@github.com:jacqueswww/vim-vyper.git
