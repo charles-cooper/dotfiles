@@ -16,3 +16,6 @@
 [submodule "vim-vyper"]
 	path = vim-vyper
 	url = git@github.com:jacqueswww/vim-vyper.git
+[submodule "vim-vue"]
+	path = vim-vue
+	url = git@github.com:posva/vim-vue.git

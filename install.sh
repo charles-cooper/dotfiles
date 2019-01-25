@@ -9,3 +9,4 @@ rsync -av --include="*/" --include="idris.vim" --exclude="*" idris-vim/ ~/.vim/
 rsync -av --include="*/" --include="pug.vim" --exclude="*" vim-pug/ ~/.vim/
 rsync -av --include="*/" --include="elm.vim" --exclude="*" elm-vim/ ~/.vim/
 rsync -av --include="*/" --include="vyper.vim" --exclude="*" vim-vyper/ ~/.vim/
+rsync -av --include="*/" --include="vue.vim" --exclude="*" vim-vue/ ~/.vim/
