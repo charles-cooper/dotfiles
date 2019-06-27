@@ -19,3 +19,6 @@
 [submodule "vim-vue"]
 	path = vim-vue
 	url = git@github.com:posva/vim-vue.git
+[submodule "v-vim"]
+	path = v-vim
+	url = git@github.com:ollykel/v-vim.git
