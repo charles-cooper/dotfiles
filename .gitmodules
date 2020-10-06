@@ -3,25 +3,25 @@
 	url = https://github.com/tomlion/vim-solidity.git
 [submodule "rust.vim"]
 	path = rust.vim
-	url = git@github.com:rust-lang/rust.vim.git
+	url = https://github.com/rust-lang/rust.vim.git
 [submodule "idris-vim"]
 	path = idris-vim
-	url = git@github.com:idris-hackers/idris-vim.git
+	url = https://github.com/idris-hackers/idris-vim.git
 [submodule "vim-pug"]
 	path = vim-pug
-	url = git@github.com:digitaltoad/vim-pug.git
+	url = https://github.com/digitaltoad/vim-pug.git
 [submodule "elm-vim"]
 	path = elm-vim
-	url = git@github.com:ElmCast/elm-vim.git
+	url = https://github.com/ElmCast/elm-vim.git
 [submodule "vim-vyper"]
 	path = vim-vyper
-	url = git@github.com:jacqueswww/vim-vyper.git
+	url = https://github.com/jacqueswww/vim-vyper.git
 [submodule "vim-vue"]
 	path = vim-vue
-	url = git@github.com:posva/vim-vue.git
+	url = https://github.com/posva/vim-vue.git
 [submodule "v-vim"]
 	path = v-vim
-	url = git@github.com:ollykel/v-vim.git
+	url = https://github.com/ollykel/v-vim.git
 [submodule "vim-terraform"]
 	path = vim-terraform
-	url = git@github.com:hashivim/vim-terraform.git
+	url = https://github.com/hashivim/vim-terraform.git
