@@ -17,3 +17,4 @@ set cursorline
 set cursorcolumn
 filetype plugin indent on
 
+let g:omni_sql_no_default_maps = 1 "https://www.reddit.com/r/vim/comments/2om1ib/how_to_disable_sql_dynamic_completion/cmop4zh?utm_source=share&utm_medium=web2x&context=3
