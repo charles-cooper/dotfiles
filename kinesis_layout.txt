@@ -1,0 +1,25 @@
+* thumb keys
+[home]>[pup]
+[end]>[pdown]
+[pup]>[home]
+[pdown]>[end]
+
+[delete]>[lctrl]
+[bspace]>[lalt]
+[lctrl]>[bspace]
+[lalt]>[lshift]
+
+* counter clockwise from upper left
+[=]>[caps]
+[tab]>[\]
+[caps]>[tab]
+[`]>[up]
+[intl-\]>[down]
+
+[up]>[`]
+[down]>[intl-\]
+[rshift]>[']
+[']>[hyphen]
+[\]>[=]
+[hyphen]>[rshift]
+
