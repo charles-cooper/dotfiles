@@ -4,10 +4,10 @@
 [pup]>[home]
 [pdown]>[end]
 
-[delete]>[lctrl]
-[bspace]>[lalt]
+[delete]>[lalt]
+[bspace]>[lctrl]
 [lctrl]>[bspace]
-[lalt]>[lshift]
+[lalt]>[delete]
 
 * counter clockwise from upper left
 [=]>[caps]
