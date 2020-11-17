@@ -21,7 +21,7 @@
 
 [up]>[`]
 [down]>[intl-\]
-[rshift]>[']
-[']>[hyphen]
+[rshift]>[hyphen]
+[']>[']
 [\]>[=]
 [hyphen]>[rshift]
