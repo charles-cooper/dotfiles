@@ -9,12 +9,15 @@
 [lctrl]>[bspace]
 [lalt]>[delete]
 
+[rwin]>[down]
+[rctrl]>[up]
+
 * counter clockwise from upper left
 [=]>[caps]
 [tab]>[\]
 [caps]>[tab]
-[`]>[up]
-[intl-\]>[down]
+[`]>[rctrl]
+[intl-\]>[rwin]
 
 [up]>[`]
 [down]>[intl-\]
@@ -22,4 +25,3 @@
 [']>[hyphen]
 [\]>[=]
 [hyphen]>[rshift]
-
