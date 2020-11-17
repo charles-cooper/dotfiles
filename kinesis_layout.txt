@@ -9,8 +9,8 @@
 [lctrl]>[bspace]
 [lalt]>[delete]
 
-[rwin]>[down]
-[rctrl]>[up]
+[rwin]>[up]
+[rctrl]>[down]
 
 * counter clockwise from upper left
 [=]>[caps]
