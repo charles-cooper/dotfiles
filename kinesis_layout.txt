@@ -1,16 +1,38 @@
-* thumb keys
+* swap home/end with pup/pdown
+* to make it easier to navigate with the left hand
 [home]>[pup]
 [end]>[pdown]
 [pup]>[home]
 [pdown]>[end]
 
+* swap ctrl/alt with backspace/delete
+* as they are used more
 [delete]>[lalt]
 [bspace]>[lctrl]
 [lctrl]>[bspace]
 [lalt]>[delete]
+* ditto for keypad
+[kp-delete]>[lalt]
+[kp-lctrl]>[bspace]
+[kp-lalt]>[delete]
 
-*[rwin]>[rwin]
-*[rctrl]>[rctrl]
+*map keypad n and m to bracket for easier typing
+[kp-n]>[obrack]
+[kp1]>[cbrack]
+
+* enter becomes shift on long keypress
+[enter]>[enter][t&h150][rshift]
+* ditto for keypad
+[kpenter0]>[enter][t&h150][rshift]
+* keep space in keypad land
+[kp0]>[space]
+
+* different buttons to toggle in and out of keypad
+[rctrl]>[kptoggle]
+* straight to lctrl
+[kp-bspace]>[kptoggle]
+* straight to lalt
+[kp-delete]>[kptoggle]
 
 * counter clockwise from upper left
 [=]>[caps]
@@ -19,9 +41,12 @@
 *[`]>[`]
 *[intl-\]>[intl-\]
 
-[up]>[`]
-[down]>[intl-\]
+[up]>[down]
+[down]>[up]
 [rshift]>[hyphen]
 [']>[']
 [\]>[=]
 [hyphen]>[rshift]
+
+* map home row in keypad to numbers
+[kp-a]>[1]
