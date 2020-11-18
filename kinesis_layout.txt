@@ -61,10 +61,10 @@
 * except 9 and 0, map those to stronger fingers
 [kp8]>[9]
 [kp9]>[0]
-* map kp l to backslash/pipe
-[kp6]>[\]
-* map kp y to -
-[kp-y]>[hyphen]
+* map kp y to backslash/pipe
+[kp-y]>[\]
+* map kp l to -
+[kp6]>[hyphen]
 * map kp u to tick/tilde
 [kp7]>[`]
 *map keypad n and m to bracket for easier typing
