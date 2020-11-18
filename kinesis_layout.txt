@@ -66,8 +66,10 @@
 [kp9]>[0]
 * map kp l to backslash/pipe
 [kp6]>[\]
+* map kp y to -
+[kp-y]>[hyphen]
 * map kp u to tick/tilde
-[numlk]>[`]
+[kp7]>[`]
 *map keypad n and m to bracket for easier typing
 [kp-n]>[obrack]
 [kp1]>[cbrack]
