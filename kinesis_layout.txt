@@ -13,22 +13,23 @@
 [lalt]>[delete]
 * ditto for keypad
 [kp-delete]>[lalt]
-[kp-lctrl]>[bspace]
 [kp-lalt]>[delete]
 
-*map keypad n and m to bracket for easier typing
-[kp-n]>[obrack]
-[kp1]>[cbrack]
+* if the user hits (regular) backspace
+* take them straight back to regular land.
+[kp-lctrl]>[rshift]
 
 * enter becomes shift on long keypress
-[enter]>[enter][t&h200][rshift]
+[enter]>[enter][t&h150][rshift]
 * ditto for keypad
-[kpenter0]>[enter][t&h150][rshift]
+[kp-enter]>[x][t&h500][y]
 * keep space in keypad land
+
 [kp0]>[space]
 
 * different buttons to toggle in and out of keypad
-[rctrl]>[kptoggle]
+[rctrl]>[kpshift]
+[kp-rctrl]>[kpshift]
 * straight to lctrl
 [kp-bspace]>[kptoggle]
 * straight to lalt
@@ -39,10 +40,13 @@
 [tab]>[\]
 [caps]>[tab]
 *[`]>[`]
-*[intl-\]>[intl-\]
+* intl-\ gets mapped strangely on some OSes
+[intl-\]>[\]
 
 [up]>[down]
+[kp-up]>[down]
 [down]>[up]
+[kp-down]>[up]
 [rshift]>[hyphen]
 [']>[']
 [\]>[=]
@@ -50,3 +54,28 @@
 
 * map home row in keypad to numbers
 [kp-a]>[1]
+[kp-s]>[2]
+[kp-d]>[3]
+[kp-f]>[4]
+[kp-g]>[5]
+[kp-h]>[6]
+[kp4]>[7]
+[kp5]>[8]
+* except 9 and 0, map those to stronger fingers
+[kp8]>[9]
+[kp9]>[0]
+* map kp l to backslash/pipe
+[kp6]>[\]
+* map kp u to tick/tilde
+[numlk]>[`]
+*map keypad n and m to bracket for easier typing
+[kp-n]>[obrack]
+[kp1]>[cbrack]
+* other keypad keys on rhs of keyboard back to their regular values
+* except obrack/cbrack
+[kp2]>[,]
+[kp3]>[.]
+[kpenter1]>[/]
+[kp-rshift]>[-]
+[kp-`]>[']
+[kp-\]>[=]
