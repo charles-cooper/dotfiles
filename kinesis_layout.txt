@@ -9,27 +9,24 @@
 * as they are used more
 [delete]>[lalt]
 [bspace]>[lctrl]
-[lctrl]>[bspace]
-[lalt]>[delete]
-* ditto for keypad
-[kp-delete]>[lalt]
-[kp-lalt]>[delete]
 
-* if the user hits (regular) backspace
-* take them straight back to regular land.
-[kp-lctrl]>[rshift]
+[lctrl]>[kpshift]
+[kp-lctrl]>[kpshift]
+[lalt]>[delete]
+
+* both ctrls at same time is shifted keypad 
+[kp-rctrl]>[rshift]
+* space enter and backspace are all rh functions
+[rctrl]>[bspace]
 
 * enter becomes shift on long keypress
 [enter]>[enter][t&h150][rshift]
-* ditto for keypad
-[kp-enter]>[x][t&h500][y]
-* keep space in keypad land
 
 [kp0]>[space]
 
 * different buttons to toggle in and out of keypad
-[rctrl]>[kpshift]
-[kp-rctrl]>[kpshift]
+[lctrl]>[kpshift]
+[kp-lctrl]>[kpshift]
 * straight to lctrl
 [kp-bspace]>[kptoggle]
 * straight to lalt
