@@ -21,7 +21,7 @@
 [kp1]>[cbrack]
 
 * enter becomes shift on long keypress
-[enter]>[enter][t&h150][rshift]
+[enter]>[enter][t&h200][rshift]
 * ditto for keypad
 [kpenter0]>[enter][t&h150][rshift]
 * keep space in keypad land
