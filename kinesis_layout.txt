@@ -14,19 +14,15 @@
 [kp-lctrl]>[kpshift]
 [lalt]>[rwin]
 [rwin]>[delete]
+[rctrl]>[rshift]
 
-* both ctrls at same time is shifted keypad
-[kp-rctrl]>[rshift]
 * space enter and backspace are all rh functions
-[rctrl]>[bspace]
-
-* enter becomes shift on long keypress
-[enter]>[enter][t&h150][rshift]
-* keypad enter is also shift
-[kp-enter]>[rshift]
-
-* map kp space back to space
-[kp0]>[space]
+* keypad rctrl is shift
+[kp-rctrl]>[rshift]
+* keypad enter is backspace
+[kp-enter]>[bspace]
+* keypad space is delete
+[kp0]>[delete]
 
 * different buttons to toggle in and out of keypad
 [lctrl]>[kpshift]
@@ -63,13 +59,13 @@
 [kp-e]>[,]
 [kp-r]>[.]
 [kp-t]>[/]
-* map kp yu to \`
-[kp7]>[`]
-[kp-y]>[\]
+* map kp yu to []
+[kp-y]>[obrack]
+[kp7]>[cbrack]
 * map kp l to -
 [kp6]>[hyphen]
-*map keypad m and , to bracket for easier typing
-[kp1]>[obrack]
-[kp2]>[cbrack]
+*map keypad m,/ to `\'
+[kp1]>[`]
+[kp2]>[\]
 [kp3]>[']
 [kpplus]>[=]
