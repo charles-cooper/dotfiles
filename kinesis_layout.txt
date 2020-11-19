@@ -40,8 +40,7 @@
 [tab]>[`] * for [alt-`]
 [caps]>[tab]
 *[`]>[`]
-* intl-\ gets mapped strangely on some OSes
-[intl-\]>[\]
+[intl-\]>[rwin]
 
 [up]>[down]
 [kp-up]>[down]
