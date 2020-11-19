@@ -23,10 +23,10 @@
 * space enter and backspace are all rh functions
 * keypad rctrl is shift
 [kp-rctrl]>[rshift]
-* keypad enter is backspace
-[kp-enter]>[bspace]
-* keypad space is delete
-[kp0]>[delete]
+* keypad enter is delete
+[kp-enter]>[delete]
+* keypad space is backspace
+[kp0]>[bspace]
 
 * different buttons to toggle in and out of keypad
 [lctrl]>[kpshift]
