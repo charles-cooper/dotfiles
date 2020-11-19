@@ -12,13 +12,13 @@
 
 [lctrl]>[kpshift]
 [kp-lctrl]>[kpshift]
-[lalt]>[rwin]
+[lalt]>[delete]
 * [space]>[space]
 * enter becomes rshift when held
-[enter]>[enter][t&h150][rshift]
+[enter]>[enter]
 
-[rwin]>[delete]
-[rctrl]>[bspace]
+[rwin]>[bspace]
+[rctrl]>[rshift]
 
 * space enter and backspace are all rh functions
 * keypad rctrl is shift
