@@ -13,6 +13,9 @@
 [lctrl]>[kpshift]
 [kp-lctrl]>[kpshift]
 [lalt]>[rwin]
+* [space]>[space]
+* [enter]>[enter]
+
 [rwin]>[delete]
 [rctrl]>[rshift]
 
@@ -52,16 +55,17 @@
 [kp-h]>[6]
 [kp4]>[7]
 [kp5]>[8]
-* except 9 and 0, map those to stronger fingers
-[kp8]>[9]
-[kp9]>[0]
-* map ert to ,./
+* except 9 and 0, map those to stronger fingers (op)
+[kp9]>[9]
+[kpmin]>[0]
+* map erty to ,./;
 [kp-e]>[,]
 [kp-r]>[.]
 [kp-t]>[/]
-* map kp yu to []
-[kp-y]>[obrack]
-[kp7]>[cbrack]
+[kp-y]>[;]
+* map kp ui to []
+[kp7]>[obrack]
+[kp8]>[cbrack]
 * map kp l to -
 [kp6]>[hyphen]
 *map keypad m,/ to `\'
