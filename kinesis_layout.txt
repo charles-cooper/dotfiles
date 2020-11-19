@@ -59,18 +59,18 @@
 * except 9 and 0, map those to stronger fingers (op)
 [kp9]>[9]
 [kpmin]>[0]
-* map erty to ,./;
-[kp-e]>[,]
-[kp-r]>[.]
-[kp-t]>[/]
-[kp-y]>[;]
+* map wery to ,./\
+[kp-w]>[,]
+[kp-e]>[.]
+[kp-r]>[/]
+[kp-y]>[\]
 * map kp ui to []
 [kp7]>[obrack]
 [kp8]>[cbrack]
 * map kp l to -
-[kp6]>[hyphen]
-*map keypad m,/ to `\'
+[kp6]>[;]
+*map keypad m,/ to `-'
 [kp1]>[`]
-[kp2]>[\]
+[kp2]>[hyphen]
 [kp3]>[']
 [kpplus]>[=]
