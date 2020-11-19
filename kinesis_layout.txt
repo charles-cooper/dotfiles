@@ -15,13 +15,15 @@
 [lalt]>[rwin]
 [rwin]>[delete]
 
-* both ctrls at same time is shifted keypad 
+* both ctrls at same time is shifted keypad
 [kp-rctrl]>[rshift]
 * space enter and backspace are all rh functions
 [rctrl]>[bspace]
 
 * enter becomes shift on long keypress
 [enter]>[enter][t&h150][rshift]
+* keypad enter is also shift
+[kp-enter]>[rshift]
 
 * map kp space back to space
 [kp0]>[space]
@@ -35,8 +37,7 @@
 [kp-delete]>[kptoggle]
 
 * counter clockwise from upper left
-[=]>[caps]
-[tab]>[\]
+[tab]>[`] * for [alt-`]
 [caps]>[tab]
 *[`]>[`]
 * intl-\ gets mapped strangely on some OSes
@@ -46,10 +47,6 @@
 [kp-up]>[down]
 [down]>[up]
 [kp-down]>[up]
-[rshift]>[hyphen]
-[']>[']
-[\]>[=]
-[hyphen]>[rshift]
 
 * map home row in keypad to numbers
 [kp-a]>[1]
@@ -63,20 +60,17 @@
 * except 9 and 0, map those to stronger fingers
 [kp8]>[9]
 [kp9]>[0]
-* map kp y to backslash/pipe
+* map ert to ,./
+[kp-e]>[,]
+[kp-r]>[.]
+[kp-t]>[/]
+* map kp yu to \`
+[kp7]>[`]
 [kp-y]>[\]
 * map kp l to -
 [kp6]>[hyphen]
-* map kp u to tick/tilde
-[kp7]>[`]
-*map keypad n and m to bracket for easier typing
-[kp-n]>[obrack]
-[kp1]>[cbrack]
-* other keypad keys on rhs of keyboard back to their regular values
-* except obrack/cbrack
-[kp2]>[,]
-[kp3]>[.]
-[kpenter1]>[/]
-[kp-rshift]>[-]
-[kp-`]>[']
-[kp-\]>[=]
+*map keypad m and , to bracket for easier typing
+[kp1]>[obrack]
+[kp2]>[cbrack]
+[kp3]>[']
+[kpplus]>[=]
