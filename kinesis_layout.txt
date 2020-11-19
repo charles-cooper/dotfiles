@@ -12,7 +12,8 @@
 
 [lctrl]>[kpshift]
 [kp-lctrl]>[kpshift]
-[lalt]>[delete]
+[lalt]>[rwin]
+[rwin]>[delete]
 
 * both ctrls at same time is shifted keypad 
 [kp-rctrl]>[rshift]
@@ -22,6 +23,7 @@
 * enter becomes shift on long keypress
 [enter]>[enter][t&h150][rshift]
 
+* map kp space back to space
 [kp0]>[space]
 
 * different buttons to toggle in and out of keypad
