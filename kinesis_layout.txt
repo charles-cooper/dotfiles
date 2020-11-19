@@ -69,8 +69,8 @@
 [kp8]>[cbrack]
 * map kp l to -
 [kp6]>[;]
-*map keypad m,/ to `-'
-[kp1]>[`]
-[kp2]>[hyphen]
+*map keypad m,/ to -`'
+[kp1]>[hyphen]
+[kp2]>[`]
 [kp3]>[']
 [kpplus]>[=]
