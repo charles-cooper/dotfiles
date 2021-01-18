@@ -56,9 +56,10 @@
 [kp-h]>[6]
 [kp4]>[7]
 [kp5]>[8]
-* except 9 and 0, map those to stronger fingers (op)
-[kp9]>[9]
-[kpmin]>[0]
+[kp6]>[9]
+[kpplus]>[0]
+*[kp9]>[9]
+*[kpmin]>[0]
 * map werty to ,./`\
 [kp-w]>[,]
 [kp-e]>[.]
@@ -69,9 +70,8 @@
 [kp7]>[obrack]
 [kp8]>[cbrack]
 * map kp l to -
-[kp6]>[;]
-*map keypad m,/ to -`'
+*map keypad nm,/ to =-`'
+[kp-n]>[=]
 [kp1]>[hyphen]
 [kp2]>[']
 * [kp3]>[']
-[kpplus]>[=]
