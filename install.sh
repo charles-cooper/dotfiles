@@ -15,3 +15,4 @@ rsync -av --include="*/" --include="terraform.vim" --exclude="*" vim-terraform/ 
 rsync -av --include="*/" --include="vlang.vim" --exclude="*" v-vim/ ~/.vim/
 # v-vim doesn't use standard ftdetect file, instead it messes with filetype.vim
 rsync -av --include="*/" --include="filetype.vim" --exclude="*" v-vim/ ~/.vim/
+rsync -av --include="*/" --include="llvm.vim" --exclude="*" vim-llvm/ ~/.vim/
