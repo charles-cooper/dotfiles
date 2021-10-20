@@ -15,7 +15,7 @@
 	url = https://github.com/ElmCast/elm-vim.git
 [submodule "vim-vyper"]
 	path = vim-vyper
-	url = https://github.com/jacqueswww/vim-vyper.git
+	url = https://github.com/vyperlang/vim-vyper.git
 [submodule "vim-vue"]
 	path = vim-vue
 	url = https://github.com/posva/vim-vue.git
