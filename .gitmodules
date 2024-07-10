@@ -22,9 +22,6 @@
 [submodule "v-vim"]
 	path = v-vim
 	url = https://github.com/ollykel/v-vim.git
-[submodule "vim-terraform"]
-	path = vim-terraform
-	url = https://github.com/hashivim/vim-terraform.git
 [submodule "vim-llvm"]
 	path = vim-llvm
 	url = https://github.com/rhysd/vim-llvm.git
